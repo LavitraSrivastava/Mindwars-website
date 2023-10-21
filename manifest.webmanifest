@@ -1,0 +1,12 @@
+{
+  "name": "Mindwars - CYPHER101",
+  "short_name": "Mindwars - CYPHER101",
+  "id": "com.Gdevelop.Mindwars",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
